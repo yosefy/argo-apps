@@ -1,2 +1,2 @@
 # argo-apps
-main argo helm repo for dap
+main argo helm repo
