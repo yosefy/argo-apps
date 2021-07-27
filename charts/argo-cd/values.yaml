@@ -3,6 +3,8 @@ argo-cd:
   global:
     image:
       tag: v2.0.5
+  dex:
+    enabled: false
   server:
     config:
       repositories: |
